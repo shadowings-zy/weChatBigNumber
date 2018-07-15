@@ -35,3 +35,10 @@ multiply(x,y) 		| bigNum.multiply(x,y) 			|将x,y两个字符串相乘，返回�
 divide(x,y)			| bigNum.divide(x,y) 			|将x,y两个字符串相除，返回值为x/y的结果字符串。注意：结果只保留整数部分。
 mod(x,y) 			| bigNum.mod(x,y) 				|将x,y两个字符串取余，返回值为x%y的结果字符串。注意：y必须为正，结果恒为整数。
 randomNum(x)	| bigNum.randomNum(x) 		|生成0-x的随机大整数。
+
+
+注：
+小程序大数运算库由山东大学“小程序区块链轻节点开发团队”开发，
+感谢团队中孔兰菊副教授和闵新平博士的大力支持！
+商业用途请与我们联系，
+邮箱：shadowingszy@outlook.com
